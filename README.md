@@ -1,5 +1,3 @@
-<img src="default_albelli.nl.jpg" width="200">
-
 # .NET Software Engineer Technical Assignment
 
 ## Things we look for in this test
@@ -62,3 +60,5 @@ You are free to use any additional third-party libraries and frameworks.
 The authentication/authorization of the API is outside of scope.
 Feel free to improve the application as **you** see fit.  
 If you have any questions please reach out to us.
+
+
