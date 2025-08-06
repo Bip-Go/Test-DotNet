@@ -16,8 +16,7 @@ Since bins are reserved upfront, we need to calculate the minimum bin width requ
 ## Assignment
 
 Create a .NET Web API that accepts an order, stores it, and responds with the minimum bin width.  
-We also should be able to get back all the information that is known about the order by its ID.  
-Cover code with tests where you find it important.  
+We also should be able to get back all the information that is known about the order by its ID.   
 
 Order information submitted by customers:
 
